@@ -4,10 +4,9 @@ A Python script to fetch upcoming holidays using the Calendarific API.
 ## Installation
 
 1. Clone the repository:
+2. Install the required packages:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-  pip install requests
+   pip install requests
 
 ## Usage
 
